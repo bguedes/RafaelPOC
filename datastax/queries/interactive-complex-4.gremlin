@@ -1,0 +1,1 @@
+g.V().has('person', 'id', personId).out('knows').in('hasCreator').hasLabel('post').as('friend_posts').sideEffect(has('creationDate',lt(startDate)).out('hasTag').aggregate('before_tags').has('creationDate', inside(startDate, endDate)).out('hasTag').is(without('before_tags')).groupCount().by('name').order(local).by(values, decr).by(keys).limit(local, 20)

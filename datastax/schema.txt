@@ -1,0 +1,41 @@
+schema.vertexLabel('comment').ifNotExists().partitionBy('id', Bigint).property('creationDate', Timestamp).property('locationIP', Text).property('browserUsed', Text).property('content', Text).property('length', Int).create();
+schema.vertexLabel('forum').ifNotExists().partitionBy('id', Bigint).property('title', Text).property('creationDate', Timestamp).create();
+schema.vertexLabel('organisation').ifNotExists().partitionBy('id', Bigint).property('name', Text).property('url', Text).property('label', Text).create();
+schema.vertexLabel('person').ifNotExists().partitionBy('id', Bigint).property('email', Text).property('creationDate', Timestamp).property('locationIP', Text).property('browserUsed', Text).property('firstName', Text).property('lastName', Text).property('gender', Text).property('birthday', Date).property('speaks', Text).create();
+schema.vertexLabel('place').ifNotExists().partitionBy('id', Bigint).property('name', Text).property('url', Text).property('label', Text).create();
+schema.vertexLabel('post').ifNotExists().partitionBy('id', Bigint).property('creationDate', Timestamp).property('locationIP', Text).property('browserUsed', Text).property('content', Text).property('length', Int).property('language', Text).property('imageFile', Text).create();
+schema.vertexLabel('tagClass').ifNotExists().partitionBy('id', Bigint).property('name', Text).property('url', Text).create();
+schema.vertexLabel('tag').ifNotExists().partitionBy('id', Bigint).property('name', Text).property('url', Text).create();
+
+schema.edgeLabel('hasCreator').ifNotExists().from('post').to('person').create();
+schema.edgeLabel('hasCreator').ifNotExists().from('comment').to('person').create();
+schema.edgeLabel('isLocatedIn').ifNotExists().from('person').to('place').create();
+schema.edgeLabel('isLocatedIn').ifNotExists().from('post').to('place').create();
+schema.edgeLabel('isLocatedIn').ifNotExists().from('comment').to('place').create();
+schema.edgeLabel('isLocatedIn').ifNotExists().from('organisation').to('place').create();
+schema.edgeLabel('replyOf').ifNotExists().from('comment').to('post').create();
+schema.edgeLabel('replyOf').ifNotExists().from('comment').to('comment').create();
+schema.edgeLabel('containerOf').ifNotExists().from('forum').to('post').create();
+schema.edgeLabel('hasMember').ifNotExists().from('forum').to('person').property('joinDate', Timestamp).create();
+schema.edgeLabel('hasModerator').ifNotExists().from('forum').to('person').create();
+schema.edgeLabel('hasTag').ifNotExists().from('post').to('tag').create();
+schema.edgeLabel('hasTag').ifNotExists().from('comment').to('tag').create();
+schema.edgeLabel('hasTag').ifNotExists().from('forum').to('tag').create();
+schema.edgeLabel('hasInterest').ifNotExists().from('person').to('tag').create();
+schema.edgeLabel('knows').ifNotExists().from('person').to('person').property('creationDate', Timestamp).create();
+schema.edgeLabel('likes').ifNotExists().from('person').to('post').property('creationDate', Timestamp).create();
+schema.edgeLabel('likes').ifNotExists().from('person').to('comment').property('creationDate', Timestamp).create();
+schema.edgeLabel('isPartOf').ifNotExists().from('place').to('place').create();
+schema.edgeLabel('isSubclassOf').ifNotExists().from('tagClass').to('tagClass').create();
+schema.edgeLabel('hasType').ifNotExists().from('tag').to('tagClass').create();
+schema.edgeLabel('studyAt').ifNotExists().from('person').to('organisation').property('classYear', Int).create();
+schema.edgeLabel('workAt').ifNotExists().from('person').to('organisation').property('workFrom', Int).create();
+
+schema.edgeLabel('hasCreator').from('comment').to('person').materializedView('comment__hasCreator__person_by_person_id').ifNotExists().inverse().create()
+schema.edgeLabel('knows').from('person').to('person').materializedView('person__knows__person_by_in_id').ifNotExists().inverse().create()
+schema.edgeLabel('hasCreator').from('post').to('person').materializedView('post__hasCreator__person_by_person_id').ifNotExists().inverse().create()
+schema.edgeLabel('hasCreator').from('comment').to('person').materializedView('comment__hasCreator__person_by_person_id').ifNotExists().inverse().create()
+schema.edgeLabel('hasCreator').from('post').to('person').materializedView('post__hasCreator__person_by_person_id').ifNotExists().inverse().create()
+schema.edgeLabel('containerOf').from('forum').to('post').materializedView('forum__containerOf__post_by_post_id').ifNotExists().inverse().create()
+schema.edgeLabel('replyOf').from('comment').to('comment').materializedView('comment__replyOf__comment_by_in_id').ifNotExists().inverse().create()
+schema.edgeLabel('replyOf').from('comment').to('post').materializedView('comment__replyOf__post_by_post_id').ifNotExists().inverse().create()

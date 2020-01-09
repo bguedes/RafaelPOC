@@ -1,0 +1,173 @@
+g.V().hasLabel('tagClass').
+      has(
+        'name', eq(tagClass1)).
+      inE('hasType').
+      outV().
+      hasLabel('tag').
+      inE('hasTag').
+      outV().
+      hasLabel('forum').
+      outE('hasMember').
+      inV().
+      as('stranger').
+      hasLabel('person').
+      project('stranger').
+      by(
+        __.
+        identity()).
+      dedup().
+      select('stranger').
+      as('stranger').
+      V().
+      hasLabel('tagClass').
+      has(
+        'name', eq(tagClass2)).
+      inE('hasType').
+      outV().
+      hasLabel('tag').
+      inE('hasTag').
+      outV().
+      hasLabel('forum').
+      outE('hasMember').
+      inV().
+      as(' GENERATED8').
+      where(
+        __.
+        select(' GENERATED8').
+        where(
+          eq('stranger'))).
+      select('stranger').
+      project('stranger').
+      by(
+        __.
+        identity()).
+      dedup().
+      select('stranger').
+      as('stranger').
+      V().
+      as('person').
+      hasLabel('person').
+      has(
+        'birthday', gt(date)).
+      inE('hasCreator').
+      as(' UNNAMED301').
+      outV().
+      as('comment').
+      hasLabel('comment').
+      repeat(
+        __.
+        outE('replyOf').
+        as(' UNNAMED335').
+        inV()).
+      emit().
+      times(10).
+      as('message').
+      hasLabel('post', 'comment').
+      outE('hasCreator').
+      as(' UNNAMED367').
+      inV().
+      as(' GENERATED13').
+      where(
+        __.
+        select(' GENERATED13').
+        where(
+          eq('stranger'))).
+      where(
+        __.
+        and(
+          __.
+          select('person').
+          where(
+            neq('stranger')), __.
+          not(
+            __.
+            select('person').
+            bothE('knows').
+            dedup().
+            by(
+              __.
+              path()).
+            otherV().
+            as(' GENERATED24').
+            where(
+              __.
+              select(' GENERATED24').
+              where(
+                eq('stranger')))), __.
+          not(
+            __.
+            select('message').
+            is(
+              neq(' cypher.null')).
+            repeat(
+              __.
+              outE('replyOf').
+              inV()).
+            emit().
+            times(10).
+            hasLabel('post', 'comment').
+            outE('hasCreator').
+            inV().
+            as(' GENERATED20').
+            where(
+              __.
+              select(' GENERATED20').
+              where(
+                eq('stranger')))), __.
+          select(' UNNAMED301').
+          where(
+            neq(' UNNAMED367')))).
+      optional(
+        __.
+        select(all, ' UNNAMED335').
+        as(' UNNAMED335')).
+      select('person', 'stranger', 'comment').
+      group().
+      by(
+        __.
+        select('person').
+        choose(
+          __.
+          values('id'), __.
+          values('id'), __.
+          constant(' cypher.null'))).
+      by(
+        __.
+        fold().
+        project('person.id', 'strangersCount', 'interactionCount').
+        by(
+          __.
+          unfold().
+          select('person').
+          choose(
+            neq(' cypher.null'), __.
+            choose(
+              __.
+              values('id'), __.
+              values('id'), __.
+              constant(' cypher.null')))).
+        by(
+          __.
+          unfold().
+          select('stranger').
+          dedup().
+          is(
+            neq(' cypher.null')).
+          count()).
+        by(
+          __.
+          unfold().
+          select('comment').
+          is(
+            neq(' cypher.null')).
+          count())).
+      unfold().
+      select(values).
+      order().
+      by(
+        __.
+        select('interactionCount'), desc).
+      by(
+        __.
+        select('person.id'), asc).
+      limit(100)
