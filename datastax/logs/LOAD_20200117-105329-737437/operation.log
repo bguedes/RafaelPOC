@@ -1,0 +1,10 @@
+2020-01-17 10:53:29 INFO  Operation directory: /Users/brunoguedes/RafaelPOC/datastax/logs/LOAD_20200117-105329-737437
+2020-01-17 10:54:00 WARN  [s0] Error connecting to Node(endPoint=/10.0.0.123:9042, hostId=null, hashCode=65f663fd), trying next node (ConnectionInitException: [s0|control|connecting...] init query OPTIONS: error writing )
+2020-01-17 10:54:00 ERROR Operation LOAD_20200117-105329-737437 failed: Could not reach any contact point, make sure you've provided valid addresses (showing first 1, use getErrors() for more: Node(endPoint=/10.0.0.123:9042, hostId=null, hashCode=65f663fd): com.datastax.oss.driver.api.core.connection.ConnectionInitException: [s0|control|connecting...] init query OPTIONS: error writing ).
+com.datastax.oss.driver.api.core.AllNodesFailedException: Could not reach any contact point, make sure you've provided valid addresses (showing first 1, use getErrors() for more: Node(endPoint=/10.0.0.123:9042, hostId=null, hashCode=65f663fd): com.datastax.oss.driver.api.core.connection.ConnectionInitException: [s0|control|connecting...] init query OPTIONS: error writing )
+	at com.datastax.oss.driver.api.core.AllNodesFailedException.copy(AllNodesFailedException.java:95)
+	at com.datastax.oss.driver.internal.core.util.concurrent.CompletableFutures.getUninterruptibly(CompletableFutures.java:149)
+	at com.datastax.oss.driver.api.core.session.SessionBuilder.build(SessionBuilder.java:501)
+	at com.datastax.dsbulk.engine.internal.settings.DriverSettings.newSession(DriverSettings.java:566)
+	at com.datastax.dsbulk.engine.LoadWorkflow.init(LoadWorkflow.java:122)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:127)

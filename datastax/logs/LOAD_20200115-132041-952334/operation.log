@@ -1,0 +1,21 @@
+2020-01-15 13:20:42 INFO  Operation directory: /Users/brunoguedes/RafaelPOC/datastax/logs/LOAD_20200115-132041-952334
+2020-01-15 13:20:53 WARN  At least 1 record does not match the provided schema.mapping or schema.query. Please check that the connector configuration and the schema configuration are correct.
+2020-01-15 13:20:53 ERROR Operation LOAD_20200115-132041-952334 aborted: Too many errors, the maximum allowed is 100.
+com.datastax.dsbulk.engine.internal.log.TooManyErrorsException: Too many errors, the maximum allowed is 100.
+	at com.datastax.dsbulk.engine.internal.log.LogManager.maybeTriggerOnError(LogManager.java:831)
+	at com.datastax.dsbulk.engine.internal.log.LogManager.lambda$newUnmappableStatementsHandler$7(LogManager.java:312)
+	at java.lang.Thread.run(Thread.java:748) [25 skipped]
+	Suppressed: java.lang.Exception: #block terminated with an error
+		at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [2 skipped]
+		at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+		at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+2020-01-15 13:21:00 INFO  Final stats:
+2020-01-15 13:21:00 INFO  Records: total: 101, successful: 0, failed: 101
+2020-01-15 13:21:00 INFO  Batches: total: 0, size: 0.00 mean, 0 min, 0 max
+2020-01-15 13:21:00 INFO  Memory usage: used: 67 MB, free: 103 MB, allocated: 171 MB, available: 3,641 MB, total gc count: 4, total gc time: 51 ms
+2020-01-15 13:21:00 INFO  Writes: total: 0, successful: 0, failed: 0, in-flight: 0
+2020-01-15 13:21:00 INFO  Throughput: 0 writes/second
+2020-01-15 13:21:00 INFO  Latencies: mean 0.00, 75p 0.00, 99p 0.00, 999p 0.00 milliseconds
+2020-01-15 13:21:00 INFO  Rejected records can be found in the following file(s): mapping.bad
+2020-01-15 13:21:00 INFO  Errors are detailed in the following file(s): mapping-errors.log
+2020-01-15 13:21:00 INFO  Last processed positions can be found in positions.txt

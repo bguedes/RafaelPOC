@@ -1,0 +1,930 @@
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 1
+Source: 343597383680|110\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 129
+Source: 68719476917|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 130
+Source: 68719476918|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 2
+Source: 343597383681|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 131
+Source: 68719476919|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 3
+Source: 343597383682|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 132
+Source: 68719476920|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 4
+Source: 343597383683|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 133
+Source: 68719476921|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 5
+Source: 343597383684|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 134
+Source: 137438953658|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 6
+Source: 343597383685|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 135
+Source: 137438953659|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 136
+Source: 137438953660|82\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 7
+Source: 343597383686|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 8
+Source: 343597383687|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 137
+Source: 137438953661|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 9
+Source: 343597383688|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 138
+Source: 137438953662|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 139
+Source: 137438953663|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 140
+Source: 137438953664|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 10
+Source: 343597383689|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 141
+Source: 137438953665|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 11
+Source: 343597383690|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 142
+Source: 137438953666|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 143
+Source: 137438953667|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 12
+Source: 343597383691|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 144
+Source: 137438953668|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 13
+Source: 343597383692|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 145
+Source: 137438953669|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 14
+Source: 343597383693|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 146
+Source: 137438953670|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 15
+Source: 343597383694|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 16
+Source: 343597383695|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 147
+Source: 137438953671|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 17
+Source: 343597383696|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 148
+Source: 137438953672|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 149
+Source: 137438953673|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 18
+Source: 343597383697|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 19
+Source: 343597383698|23\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 150
+Source: 137438953674|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 151
+Source: 137438953675|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 20
+Source: 343597383699|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 152
+Source: 137438953676|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 21
+Source: 343597383700|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 153
+Source: 206158430413|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 22
+Source: 343597383701|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 154
+Source: 206158430414|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 155
+Source: 206158430415|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 23
+Source: 343597383702|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 24
+Source: 343597383703|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 156
+Source: 206158430416|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 157
+Source: 206158430417|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 25
+Source: 343597383704|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 26
+Source: 343597383705|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 158
+Source: 206158430418|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 159
+Source: 206158430419|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 27
+Source: 343597383706|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 28
+Source: 343597383707|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 29
+Source: 343597383708|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 30
+Source: 343597383709|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 160
+Source: 206158430420|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 31
+Source: 343597383710|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 32
+Source: 343597383711|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 161
+Source: 206158430421|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 162
+Source: 206158430422|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 163
+Source: 206158430423|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 164
+Source: 206158430424|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 165
+Source: 206158430425|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 166
+Source: 206158430426|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 33
+Source: 343597383712|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 167
+Source: 206158430427|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 34
+Source: 343597383713|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 35
+Source: 343597383714|71\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 36
+Source: 274877906979|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 37
+Source: 274877906980|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 168
+Source: 274877907164|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 38
+Source: 274877906981|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 169
+Source: 274877907165|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 39
+Source: 274877906982|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 170
+Source: 274877907166|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 171
+Source: 274877907167|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 172
+Source: 274877907168|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 40
+Source: 274877906983|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 173
+Source: 274877907169|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 41
+Source: 274877906984|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 42
+Source: 274877906985|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 174
+Source: 274877907170|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 43
+Source: 274877906987|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 175
+Source: 274877907171|89\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 44
+Source: 274877906988|50\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 176
+Source: 137438953702|1\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 45
+Source: 274877907005|80\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 177
+Source: 137438953703|1\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 46
+Source: 274877907006|80\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 47
+Source: 274877907007|80\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 178
+Source: 137438953704|1\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 179
+Source: 137438953705|1\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 48
+Source: 274877907008|80\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 180
+Source: 137438953706|1\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 49
+Source: 274877907009|80\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 181
+Source: 137438953707|1\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/post_isLocatedIn_place_0_0.csv
+Position: 257
+Source: 274877907255|1\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field post_id (mapped to column post_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+

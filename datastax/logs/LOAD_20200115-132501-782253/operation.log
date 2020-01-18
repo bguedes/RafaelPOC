@@ -1,0 +1,13 @@
+2020-01-15 13:25:01 INFO  Operation directory: /Users/brunoguedes/RafaelPOC/datastax/logs/LOAD_20200115-132501-782253
+2020-01-15 13:25:05 ERROR Operation LOAD_20200115-132501-782253 interrupted, waiting for termination.
+2020-01-15 13:25:13 WARN  At least 1 record does not match the provided schema.mapping or schema.query. Please check that the connector configuration and the schema configuration are correct.
+2020-01-15 13:25:13 ERROR Operation LOAD_20200115-132501-782253 aborted: Too many errors, the maximum allowed is 100.
+com.datastax.dsbulk.engine.internal.log.TooManyErrorsException: Too many errors, the maximum allowed is 100.
+	at com.datastax.dsbulk.engine.internal.log.LogManager.maybeTriggerOnError(LogManager.java:831)
+	at com.datastax.dsbulk.engine.internal.log.LogManager.lambda$newUnmappableStatementsHandler$7(LogManager.java:312)
+	at java.lang.Thread.run(Thread.java:748) [25 skipped]
+	Suppressed: java.lang.Exception: #block terminated with an error
+		at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [2 skipped]
+		at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+		at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+2020-01-15 13:25:15 ERROR Operation LOAD_20200115-132501-782253 did not terminate within 10 seconds, forcing termination.

@@ -1,0 +1,1023 @@
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 1
+Source: 0|India|http://dbpedia.org/resource/India|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 2
+Source: 1|China|http://dbpedia.org/resource/China|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 3
+Source: 2|Angola|http://dbpedia.org/resource/Angola|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 4
+Source: 3|Austria|http://dbpedia.org/resource/Austria|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 5
+Source: 4|Azerbaijan|http://dbpedia.org/resource/Azerbaijan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 6
+Source: 5|Bolivia|http://dbpedia.org/resource/Bolivia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 7
+Source: 6|Bosnia_and_Herzegovina|http://dbpedia.org/resource/Bosnia_and_Herzegovina|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 8
+Source: 7|Bulgaria|http://dbpedia.org/resource/Bulgaria|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 9
+Source: 8|Chad|http://dbpedia.org/resource/Chad|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 10
+Source: 9|Croatia|http://dbpedia.org/resource/Croatia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 11
+Source: 10|Denmark|http://dbpedia.org/resource/Denmark|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 12
+Source: 11|Dominican_Republic|http://dbpedia.org/resource/Dominican_Republic|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 13
+Source: 12|El_Salvador|http://dbpedia.org/resource/El_Salvador|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 14
+Source: 13|Estonia|http://dbpedia.org/resource/Estonia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 15
+Source: 14|Finland|http://dbpedia.org/resource/Finland|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 16
+Source: 15|Honduras|http://dbpedia.org/resource/Honduras|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 17
+Source: 16|Hong_Kong|http://dbpedia.org/resource/Hong_Kong|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 18
+Source: 17|Israel|http://dbpedia.org/resource/Israel|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 19
+Source: 18|Jordan|http://dbpedia.org/resource/Jordan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 20
+Source: 19|Laos|http://dbpedia.org/resource/Laos|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 21
+Source: 20|Latvia|http://dbpedia.org/resource/Latvia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 22
+Source: 21|Liberia|http://dbpedia.org/resource/Liberia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 23
+Source: 22|Libya|http://dbpedia.org/resource/Libya|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 24
+Source: 23|Lithuania|http://dbpedia.org/resource/Lithuania|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 25
+Source: 24|Malta|http://dbpedia.org/resource/Malta|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 26
+Source: 25|Mauritania|http://dbpedia.org/resource/Mauritania|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 27
+Source: 26|Mauritius|http://dbpedia.org/resource/Mauritius|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 28
+Source: 27|Mongolia|http://dbpedia.org/resource/Mongolia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 29
+Source: 28|Namibia|http://dbpedia.org/resource/Namibia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 30
+Source: 29|New_Zealand|http://dbpedia.org/resource/New_Zealand|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 31
+Source: 30|Nicaragua|http://dbpedia.org/resource/Nicaragua|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 32
+Source: 31|Northern_Ireland|http://dbpedia.org/resource/Northern_Ireland|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 33
+Source: 32|Norway|http://dbpedia.org/resource/Norway|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 34
+Source: 33|Oman|http://dbpedia.org/resource/Oman|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 35
+Source: 34|Panama|http://dbpedia.org/resource/Panama|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 36
+Source: 35|Papua_New_Guinea|http://dbpedia.org/resource/Papua_New_Guinea|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 37
+Source: 36|Puerto_Rico|http://dbpedia.org/resource/Puerto_Rico|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 38
+Source: 37|Republic_of_Ireland|http://dbpedia.org/resource/Republic_of_Ireland|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 39
+Source: 38|Republic_of_Macedonia|http://dbpedia.org/resource/Republic_of_Macedonia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 40
+Source: 39|Rwanda|http://dbpedia.org/resource/Rwanda|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 41
+Source: 40|Scotland|http://dbpedia.org/resource/Scotland|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 42
+Source: 41|Singapore|http://dbpedia.org/resource/Singapore|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 43
+Source: 42|Slovakia|http://dbpedia.org/resource/Slovakia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 44
+Source: 43|Slovenia|http://dbpedia.org/resource/Slovenia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 45
+Source: 44|Swaziland|http://dbpedia.org/resource/Swaziland|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 46
+Source: 45|Switzerland|http://dbpedia.org/resource/Switzerland|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 47
+Source: 46|Tajikistan|http://dbpedia.org/resource/Tajikistan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 48
+Source: 47|Uruguay|http://dbpedia.org/resource/Uruguay|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 49
+Source: 48|Wales|http://dbpedia.org/resource/Wales|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 50
+Source: 49|Brazil|http://dbpedia.org/resource/Brazil|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 51
+Source: 50|Germany|http://dbpedia.org/resource/Germany|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 52
+Source: 51|Indonesia|http://dbpedia.org/resource/Indonesia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 53
+Source: 52|Japan|http://dbpedia.org/resource/Japan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 54
+Source: 53|Mexico|http://dbpedia.org/resource/Mexico|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 55
+Source: 54|Pakistan|http://dbpedia.org/resource/Pakistan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 56
+Source: 55|Philippines|http://dbpedia.org/resource/Philippines|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 57
+Source: 56|Russia|http://dbpedia.org/resource/Russia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 58
+Source: 57|United_States|http://dbpedia.org/resource/United_States|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 59
+Source: 58|Vietnam|http://dbpedia.org/resource/Vietnam|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 60
+Source: 59|Afghanistan|http://dbpedia.org/resource/Afghanistan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 61
+Source: 60|Algeria|http://dbpedia.org/resource/Algeria|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 62
+Source: 61|Argentina|http://dbpedia.org/resource/Argentina|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 63
+Source: 62|Australia|http://dbpedia.org/resource/Australia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 64
+Source: 63|Belarus|http://dbpedia.org/resource/Belarus|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 65
+Source: 64|Belgium|http://dbpedia.org/resource/Belgium|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 66
+Source: 65|Burma|http://dbpedia.org/resource/Burma|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 67
+Source: 66|Canada|http://dbpedia.org/resource/Canada|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 68
+Source: 67|Cambodia|http://dbpedia.org/resource/Cambodia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 69
+Source: 68|Cameroon|http://dbpedia.org/resource/Cameroon|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 70
+Source: 69|Chile|http://dbpedia.org/resource/Chile|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 71
+Source: 70|Colombia|http://dbpedia.org/resource/Colombia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 72
+Source: 71|Cuba|http://dbpedia.org/resource/Cuba|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 73
+Source: 72|Czech_Republic|http://dbpedia.org/resource/Czech_Republic|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 74
+Source: 73|Democratic_Republic_of_the_Congo|http://dbpedia.org/resource/Democratic_Republic_of_the_Congo|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 75
+Source: 74|Egypt|http://dbpedia.org/resource/Egypt|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 76
+Source: 75|England|http://dbpedia.org/resource/England|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 77
+Source: 76|Ethiopia|http://dbpedia.org/resource/Ethiopia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 78
+Source: 77|France|http://dbpedia.org/resource/France|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 79
+Source: 78|Greece|http://dbpedia.org/resource/Greece|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 80
+Source: 79|Hungary|http://dbpedia.org/resource/Hungary|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 81
+Source: 80|Iran|http://dbpedia.org/resource/Iran|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 82
+Source: 81|Italy|http://dbpedia.org/resource/Italy|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 83
+Source: 82|Kazakhstan|http://dbpedia.org/resource/Kazakhstan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 84
+Source: 83|Kenya|http://dbpedia.org/resource/Kenya|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 85
+Source: 84|Madagascar|http://dbpedia.org/resource/Madagascar|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 86
+Source: 85|Malaysia|http://dbpedia.org/resource/Malaysia|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 87
+Source: 86|Moldova|http://dbpedia.org/resource/Moldova|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 88
+Source: 87|Morocco|http://dbpedia.org/resource/Morocco|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 89
+Source: 88|Nepal|http://dbpedia.org/resource/Nepal|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 90
+Source: 89|Netherlands|http://dbpedia.org/resource/Netherlands|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 91
+Source: 90|Niger|http://dbpedia.org/resource/Niger|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 92
+Source: 91|Peru|http://dbpedia.org/resource/Peru|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 93
+Source: 92|Poland|http://dbpedia.org/resource/Poland|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 94
+Source: 93|Portugal|http://dbpedia.org/resource/Portugal|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 95
+Source: 94|Taiwan|http://dbpedia.org/resource/Taiwan|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 96
+Source: 95|Romania|http://dbpedia.org/resource/Romania|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 97
+Source: 96|Senegal|http://dbpedia.org/resource/Senegal|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 98
+Source: 97|South_Africa|http://dbpedia.org/resource/South_Africa|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 99
+Source: 98|South_Korea|http://dbpedia.org/resource/South_Korea|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 100
+Source: 99|Spain|http://dbpedia.org/resource/Spain|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/place_0_0.csv
+Position: 101
+Source: 100|Sri_Lanka|http://dbpedia.org/resource/Sri_Lanka|country\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+

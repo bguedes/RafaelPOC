@@ -2,7 +2,7 @@
 
 echo "starting preprocessing"
 
-export DATA_DIR=/home/avi/ldbc/ldbc_snb_datagen/social_network
+export DATA_DIR=/Users/brunoguedes/RafaelPOC/sample-data
 export POSTFIX=_0_0.csv
 
 # replace headers

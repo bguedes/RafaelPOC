@@ -1,0 +1,936 @@
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 129
+Source: 68719476760|68719476917\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 130
+Source: 68719476760|68719476918\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 131
+Source: 68719476760|68719476919\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 132
+Source: 68719476760|68719476920\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 133
+Source: 68719476760|68719476921\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 134
+Source: 137438953497|137438953658\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 135
+Source: 137438953497|137438953659\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 136
+Source: 137438953497|137438953660\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 137
+Source: 137438953497|137438953661\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 138
+Source: 137438953497|137438953662\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 139
+Source: 137438953497|137438953663\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 140
+Source: 137438953497|137438953664\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 141
+Source: 137438953497|137438953665\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 142
+Source: 137438953497|137438953666\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 143
+Source: 137438953497|137438953667\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 144
+Source: 137438953497|137438953668\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 145
+Source: 137438953497|137438953669\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 146
+Source: 137438953497|137438953670\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 147
+Source: 137438953497|137438953671\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 148
+Source: 137438953497|137438953672\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 149
+Source: 137438953497|137438953673\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 150
+Source: 137438953497|137438953674\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 151
+Source: 137438953497|137438953675\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 152
+Source: 137438953497|137438953676\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 153
+Source: 206158430235|206158430413\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 154
+Source: 206158430235|206158430414\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 155
+Source: 206158430235|206158430415\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 156
+Source: 206158430235|206158430416\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 157
+Source: 206158430235|206158430417\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 158
+Source: 206158430235|206158430418\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 159
+Source: 206158430235|206158430419\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 160
+Source: 206158430235|206158430420\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 161
+Source: 206158430235|206158430421\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 162
+Source: 206158430235|206158430422\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 163
+Source: 206158430235|206158430423\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 164
+Source: 206158430235|206158430424\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 165
+Source: 206158430235|206158430425\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 166
+Source: 206158430235|206158430426\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 167
+Source: 206158430235|206158430427\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 168
+Source: 274877906972|274877907164\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 169
+Source: 274877906972|274877907165\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 170
+Source: 274877906972|274877907166\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 171
+Source: 274877906972|274877907167\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 172
+Source: 274877906972|274877907168\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 173
+Source: 274877906972|274877907169\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 174
+Source: 274877906972|274877907170\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 175
+Source: 274877906972|274877907171\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 176
+Source: 137438953504|137438953702\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 177
+Source: 137438953504|137438953703\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 178
+Source: 137438953504|137438953704\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 179
+Source: 137438953504|137438953705\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 180
+Source: 137438953504|137438953706\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 181
+Source: 137438953504|137438953707\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 182
+Source: 137438953504|137438953708\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 1
+Source: 343597383682|343597383680\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 183
+Source: 137438953504|137438953709\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 2
+Source: 343597383682|343597383681\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 184
+Source: 137438953504|137438953710\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 3
+Source: 343597383682|343597383682\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 185
+Source: 137438953504|137438953711\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 4
+Source: 343597383682|343597383683\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 186
+Source: 137438953504|137438953712\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 5
+Source: 343597383682|343597383684\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 187
+Source: 137438953504|137438953713\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 6
+Source: 343597383682|343597383685\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 188
+Source: 137438953504|137438953714\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 7
+Source: 343597383682|343597383686\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 189
+Source: 137438953504|137438953715\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 8
+Source: 343597383682|343597383687\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 190
+Source: 137438953504|137438953716\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 9
+Source: 343597383682|343597383688\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 191
+Source: 137438953504|137438953717\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 10
+Source: 343597383682|343597383689\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 192
+Source: 137438953504|137438953718\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 11
+Source: 343597383682|343597383690\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 193
+Source: 137438953504|137438953719\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 12
+Source: 343597383682|343597383691\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 194
+Source: 137438953504|137438953720\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 13
+Source: 343597383682|343597383692\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 195
+Source: 137438953505|137438953721\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 14
+Source: 343597383682|343597383693\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 196
+Source: 137438953505|137438953722\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 15
+Source: 343597383682|343597383694\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 197
+Source: 137438953505|137438953723\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 16
+Source: 343597383682|343597383695\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 198
+Source: 137438953505|137438953724\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 17
+Source: 343597383682|343597383696\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 199
+Source: 137438953505|137438953725\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 18
+Source: 343597383682|343597383697\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 200
+Source: 137438953505|137438953726\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 19
+Source: 343597383682|343597383698\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 201
+Source: 137438953505|137438953727\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 20
+Source: 343597383683|343597383699\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 202
+Source: 137438953505|137438953728\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 203
+Source: 137438953505|137438953729\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 204
+Source: 274877906978|274877907202\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 205
+Source: 274877906978|274877907203\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 21
+Source: 343597383683|343597383700\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 206
+Source: 274877906978|274877907204\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 22
+Source: 343597383683|343597383701\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 207
+Source: 274877906978|274877907205\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 23
+Source: 343597383683|343597383702\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 257
+Source: 274877906985|274877907255\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/forum_containerOf_post_0_0.csv
+Position: 385
+Source: 343597383754|343597384187\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field forum_id (mapped to column forum_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+

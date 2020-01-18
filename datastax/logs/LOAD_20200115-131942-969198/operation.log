@@ -1,0 +1,13 @@
+2020-01-15 13:19:43 INFO  Operation directory: /Users/brunoguedes/RafaelPOC/datastax/logs/LOAD_20200115-131942-969198
+2020-01-15 13:19:54 WARN  At least 1 record does not match the provided schema.mapping or schema.query. Please check that the connector configuration and the schema configuration are correct.
+2020-01-15 13:19:54 WARN  Operation LOAD_20200115-131942-969198 completed with 34 errors in 0 seconds.
+2020-01-15 13:20:01 INFO  Final stats:
+2020-01-15 13:20:01 INFO  Records: total: 34, successful: 0, failed: 34
+2020-01-15 13:20:01 INFO  Batches: total: 0, size: 0.00 mean, 0 min, 0 max
+2020-01-15 13:20:01 INFO  Memory usage: used: 64 MB, free: 98 MB, allocated: 163 MB, available: 3,641 MB, total gc count: 4, total gc time: 50 ms
+2020-01-15 13:20:01 INFO  Writes: total: 0, successful: 0, failed: 0, in-flight: 0
+2020-01-15 13:20:01 INFO  Throughput: 0 writes/second
+2020-01-15 13:20:01 INFO  Latencies: mean 0.00, 75p 0.00, 99p 0.00, 999p 0.00 milliseconds
+2020-01-15 13:20:01 INFO  Rejected records can be found in the following file(s): mapping.bad
+2020-01-15 13:20:01 INFO  Errors are detailed in the following file(s): mapping-errors.log
+2020-01-15 13:20:01 INFO  Last processed positions can be found in positions.txt

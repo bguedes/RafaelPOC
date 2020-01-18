@@ -1,0 +1,315 @@
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 1
+Source: 8796093022220|2435|2008\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 2
+Source: 2199023255591|5985|2006\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 3
+Source: 4398046511105|2945|2007\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 4
+Source: 8796093022239|2832|2001\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 5
+Source: 8796093022222|4593|2002\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 6
+Source: 6597069766681|4673|2005\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 7
+Source: 6|2209|2005\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 8
+Source: 8796093022235|5804|2007\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 9
+Source: 2199023255555|5986|2003\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 10
+Source: 4398046511109|1953|2009\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 11
+Source: 2199023255574|4742|2004\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 12
+Source: 4398046511113|1785|2004\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 13
+Source: 6597069766672|5809|2007\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 14
+Source: 10995116277793|1596|2002\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 15
+Source: 6597069766692|3008|2005\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 16
+Source: 6597069766701|5236|2008\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 17
+Source: 4398046511133|2214|2004\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 18
+Source: 8796093022248|1856|2007\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 19
+Source: 4398046511112|1580|2001\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 20
+Source: 10995116277795|4929|2009\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 21
+Source: 6597069766674|6172|2001\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 22
+Source: 4398046511123|7953|2006\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 23
+Source: 4398046511147|3014|2005\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 24
+Source: 6597069766667|2211|2002\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 25
+Source: 4398046511136|5047|2001\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 26
+Source: 6597069766656|3011|2005\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 27
+Source: 8796093022215|2208|2006\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 28
+Source: 41|3010|2004\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 29
+Source: 4398046511151|6346|2003\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 30
+Source: 6597069766660|7936|2007\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 31
+Source: 10995116277809|3008|2002\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 32
+Source: 4398046511127|6797|2009\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 33
+Source: 4398046511106|4519|2008\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 34
+Source: 8796093022252|5987|2006\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/person_studyAt_organisation_0_0.csv
+Position: 35
+Source: 8796093022246|5040|2004\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field person_id (mapped to column person_id) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
