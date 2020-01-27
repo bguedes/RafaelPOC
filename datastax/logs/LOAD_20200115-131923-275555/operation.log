@@ -1,0 +1,30 @@
+2020-01-15 13:19:23 INFO  Operation directory: /Users/brunoguedes/RafaelPOC/datastax/logs/LOAD_20200115-131923-275555
+2020-01-15 13:19:34 ERROR Operation LOAD_20200115-131923-275555 failed: Java.io.IOException: Error reading from file:/Users/brunoguedes/RafaelPOC/sample-data/comment_replyOf_comment_0_0.csv at line 1.
+   Caused by: Error reading from file:/Users/brunoguedes/RafaelPOC/sample-data/comment_replyOf_comment_0_0.csv at line 1.
+     Caused by: File:/Users/brunoguedes/RafaelPOC/sample-data/comment_replyOf_comment_0_0.csv has invalid header: found duplicate field name at index 1.
+reactor.core.Exceptions$ReactiveException: java.io.IOException: Error reading from file:/Users/brunoguedes/RafaelPOC/sample-data/comment_replyOf_comment_0_0.csv at line 1
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [3 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+	Suppressed: java.lang.Exception: #block terminated with an error
+		at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [2 skipped]
+		... 4 common frames omitted
+Caused by: java.io.IOException: Error reading from file:/Users/brunoguedes/RafaelPOC/sample-data/comment_replyOf_comment_0_0.csv at line 1
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:552)
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+Caused by: java.io.IOException: file:/Users/brunoguedes/RafaelPOC/sample-data/comment_replyOf_comment_0_0.csv has invalid header: found duplicate field name at index 1.
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.getFieldNames(CSVConnector.java:583)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:510)
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+2020-01-15 13:19:41 INFO  Final stats:
+2020-01-15 13:19:41 INFO  Records: total: 0, successful: 0, failed: 0
+2020-01-15 13:19:41 INFO  Batches: total: 0, size: 0.00 mean, 0 min, 0 max
+2020-01-15 13:19:41 INFO  Memory usage: used: 59 MB, free: 103 MB, allocated: 163 MB, available: 3,641 MB, total gc count: 4, total gc time: 47 ms
+2020-01-15 13:19:41 INFO  Writes: total: 0, successful: 0, failed: 0, in-flight: 0
+2020-01-15 13:19:41 INFO  Throughput: 0 writes/second
+2020-01-15 13:19:41 INFO  Latencies: mean 0.00, 75p 0.00, 99p 0.00, 999p 0.00 milliseconds
+2020-01-15 13:19:41 INFO  Last processed positions can be found in positions.txt

@@ -1,0 +1,10 @@
+2020-01-17 09:31:47 INFO  Operation directory: /Users/brunoguedes/RafaelPOC/datastax/logs/LOAD_20200117-093147-017516
+2020-01-17 09:31:48 INFO  Operation LOAD_20200117-093147-017516 completed successfully in 0 seconds.
+2020-01-17 09:31:51 INFO  Final stats:
+2020-01-17 09:31:51 INFO  Records: total: 286, successful: 286, failed: 0
+2020-01-17 09:31:51 INFO  Batches: total: 72, size: 3.97 mean, 1 min, 22 max
+2020-01-17 09:31:51 INFO  Memory usage: used: 27 MB, free: 248 MB, allocated: 276 MB, available: 3,641 MB, total gc count: 6, total gc time: 101 ms
+2020-01-17 09:31:51 INFO  Writes: total: 286, successful: 286, failed: 0, in-flight: 0
+2020-01-17 09:31:51 INFO  Throughput: 105 writes/second
+2020-01-17 09:31:51 INFO  Latencies: mean 63.08, 75p 78.64, 99p 80.22, 999p 80.74 milliseconds
+2020-01-17 09:31:51 INFO  Last processed positions can be found in positions.txt

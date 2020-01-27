@@ -1,0 +1,927 @@
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 129
+Source: 128|company|Boliviana_de_Aviación|http://dbpedia.org/resource/Boliviana_de_Aviación\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 1
+Source: 0|company|Kam_Air|http://dbpedia.org/resource/Kam_Air\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 130
+Source: 129|company|Air_Srpska|http://dbpedia.org/resource/Air_Srpska\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 2
+Source: 1|company|Balkh_Airlines|http://dbpedia.org/resource/Balkh_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 131
+Source: 130|company|Arnoro|http://dbpedia.org/resource/Arnoro\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 132
+Source: 131|company|B&H_Airlines|http://dbpedia.org/resource/B&H_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 3
+Source: 2|company|Khyber_Afghan_Airlines|http://dbpedia.org/resource/Khyber_Afghan_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 133
+Source: 132|company|Bosnia_Airlines|http://dbpedia.org/resource/Bosnia_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 4
+Source: 3|company|MarcoPolo_Airways|http://dbpedia.org/resource/MarcoPolo_Airways\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 134
+Source: 133|company|Sky_Srpska|http://dbpedia.org/resource/Sky_Srpska\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 5
+Source: 4|company|Pamir_Airways|http://dbpedia.org/resource/Pamir_Airways\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 135
+Source: 134|company|Icar_Air|http://dbpedia.org/resource/Icar_Air\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 6
+Source: 5|company|Bakhtar_Afghan_Airlines|http://dbpedia.org/resource/Bakhtar_Afghan_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 136
+Source: 135|company|Gol_Transportes_Aéreos|http://dbpedia.org/resource/Gol_Transportes_Aéreos\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 7
+Source: 6|company|Safi_Airways|http://dbpedia.org/resource/Safi_Airways\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 137
+Source: 136|company|TAM_Airlines|http://dbpedia.org/resource/TAM_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 8
+Source: 7|company|Air_Algérie|http://dbpedia.org/resource/Air_Algérie\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 9
+Source: 8|company|Khalifa_Airways|http://dbpedia.org/resource/Khalifa_Airways\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 138
+Source: 137|company|VASP|http://dbpedia.org/resource/VASP\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 10
+Source: 9|company|Tassili_Airlines|http://dbpedia.org/resource/Tassili_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 139
+Source: 138|company|Avianca_Brazil|http://dbpedia.org/resource/Avianca_Brazil\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 11
+Source: 10|company|Antinea_Airlines|http://dbpedia.org/resource/Antinea_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 140
+Source: 139|company|Abaeté_Linhas_Aéreas|http://dbpedia.org/resource/Abaeté_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 12
+Source: 11|company|Star_Aviation|http://dbpedia.org/resource/Star_Aviation\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 141
+Source: 140|company|ABSA_Cargo_Airline|http://dbpedia.org/resource/ABSA_Cargo_Airline\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 13
+Source: 12|company|TAAG_Angola_Airlines|http://dbpedia.org/resource/TAAG_Angola_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 142
+Source: 141|company|Air_Minas_Linhas_Aéreas|http://dbpedia.org/resource/Air_Minas_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 14
+Source: 13|company|Aero_Tropical|http://dbpedia.org/resource/Aero_Tropical\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 143
+Source: 142|company|ATA_Brasil|http://dbpedia.org/resource/ATA_Brasil\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 15
+Source: 14|company|Angola_Air_Charter|http://dbpedia.org/resource/Angola_Air_Charter\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 144
+Source: 143|company|Cruiser_Linhas_Aéreas|http://dbpedia.org/resource/Cruiser_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 16
+Source: 15|company|Alada|http://dbpedia.org/resource/Alada\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 145
+Source: 144|company|Fly_Linhas_Aéreas|http://dbpedia.org/resource/Fly_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 17
+Source: 16|company|Air_Gemini|http://dbpedia.org/resource/Air_Gemini\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 146
+Source: 145|company|Meta_Transportes_Aéreos|http://dbpedia.org/resource/Meta_Transportes_Aéreos\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 18
+Source: 17|company|Aeronáutica_(Angola)|http://dbpedia.org/resource/Aeronáutica_(Angola)\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 147
+Source: 146|company|Nordeste_Linhas_Aéreas_Regionais|http://dbpedia.org/resource/Nordeste_Linhas_Aéreas_Regionais\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 19
+Source: 18|company|Diexim_Expresso|http://dbpedia.org/resource/Diexim_Expresso\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 148
+Source: 147|company|Pantanal_Linhas_Aéreas|http://dbpedia.org/resource/Pantanal_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 20
+Source: 19|company|SonAir|http://dbpedia.org/resource/SonAir\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 149
+Source: 148|company|PENTA_–_Pena_Transportes_Aéreos|http://dbpedia.org/resource/PENTA_–_Pena_Transportes_Aéreos\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 21
+Source: 20|company|Air_26|http://dbpedia.org/resource/Air_26\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 22
+Source: 21|company|Aerolíneas_Argentinas|http://dbpedia.org/resource/Aerolíneas_Argentinas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 150
+Source: 149|company|Puma_Air|http://dbpedia.org/resource/Puma_Air\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 23
+Source: 22|company|Austral_Líneas_Aéreas|http://dbpedia.org/resource/Austral_Líneas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 151
+Source: 150|company|Rico_Linhas_Aéreas|http://dbpedia.org/resource/Rico_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 24
+Source: 23|company|Líneas_Aéreas_Privadas_Argentinas|http://dbpedia.org/resource/Líneas_Aéreas_Privadas_Argentinas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 152
+Source: 151|company|Rio_Sul_Serviços_Aéreos_Regionais|http://dbpedia.org/resource/Rio_Sul_Serviços_Aéreos_Regionais\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 25
+Source: 24|company|Aero_VIP_(Argentina)|http://dbpedia.org/resource/Aero_VIP_(Argentina)\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 153
+Source: 152|company|Skymaster_Airlines|http://dbpedia.org/resource/Skymaster_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 26
+Source: 25|company|CATA_Línea_Aérea|http://dbpedia.org/resource/CATA_Línea_Aérea\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 154
+Source: 153|company|TAF_Linhas_Aéreas|http://dbpedia.org/resource/TAF_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 27
+Source: 26|company|LADE|http://dbpedia.org/resource/LADE\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 155
+Source: 154|company|Total_Linhas_Aéreas|http://dbpedia.org/resource/Total_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 28
+Source: 27|company|Líneas_Aéreas_Federales|http://dbpedia.org/resource/Líneas_Aéreas_Federales\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 156
+Source: 155|company|Varig_Logística|http://dbpedia.org/resource/Varig_Logística\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 29
+Source: 28|company|LAN_Argentina|http://dbpedia.org/resource/LAN_Argentina\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 157
+Source: 156|company|BRA_Transportes_Aéreos|http://dbpedia.org/resource/BRA_Transportes_Aéreos\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 30
+Source: 29|company|Sol_Líneas_Aéreas|http://dbpedia.org/resource/Sol_Líneas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 158
+Source: 157|company|Gensa|http://dbpedia.org/resource/Gensa\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 31
+Source: 30|company|Andes_Líneas_Aéreas|http://dbpedia.org/resource/Andes_Líneas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 159
+Source: 158|company|TEAM_Linhas_Aéreas|http://dbpedia.org/resource/TEAM_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 32
+Source: 31|company|Silver_Sky_Airlines|http://dbpedia.org/resource/Silver_Sky_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 160
+Source: 159|company|NHT_Linhas_Aéreas|http://dbpedia.org/resource/NHT_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 33
+Source: 32|company|Dinar_Líneas_Aéreas|http://dbpedia.org/resource/Dinar_Líneas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 161
+Source: 160|company|WebJet_Linhas_Aéreas|http://dbpedia.org/resource/WebJet_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 34
+Source: 33|company|Aerochaco|http://dbpedia.org/resource/Aerochaco\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 162
+Source: 161|company|Passaredo_Linhas_Aéreas|http://dbpedia.org/resource/Passaredo_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 35
+Source: 34|company|Trans_Australia_Airlines|http://dbpedia.org/resource/Trans_Australia_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 163
+Source: 162|company|Serviços_Aéreos_Cruzeiro_do_Sul|http://dbpedia.org/resource/Serviços_Aéreos_Cruzeiro_do_Sul\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 36
+Source: 35|company|Ansett_Australia|http://dbpedia.org/resource/Ansett_Australia\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 164
+Source: 163|company|Azul_Brazilian_Airlines|http://dbpedia.org/resource/Azul_Brazilian_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 37
+Source: 36|company|Skywest_Airlines|http://dbpedia.org/resource/Skywest_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 165
+Source: 164|company|Flex_Linhas_Aéreas|http://dbpedia.org/resource/Flex_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 38
+Source: 37|company|Virgin_Blue|http://dbpedia.org/resource/Virgin_Blue\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 166
+Source: 165|company|Master_Top_Airlines|http://dbpedia.org/resource/Master_Top_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 39
+Source: 38|company|Jetstar_Airways|http://dbpedia.org/resource/Jetstar_Airways\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 167
+Source: 166|company|Real_Transportes_Aéreos|http://dbpedia.org/resource/Real_Transportes_Aéreos\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 40
+Source: 39|company|Kendell_Airlines|http://dbpedia.org/resource/Kendell_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 168
+Source: 167|company|ETA_–_Empresa_de_Transporte_Aéreo|http://dbpedia.org/resource/ETA_–_Empresa_de_Transporte_Aéreo\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 41
+Source: 40|company|Impulse_Airlines|http://dbpedia.org/resource/Impulse_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 169
+Source: 168|company|Paraense_Transportes_Aéreos|http://dbpedia.org/resource/Paraense_Transportes_Aéreos\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 42
+Source: 41|company|Sunshine_Express_Airlines|http://dbpedia.org/resource/Sunshine_Express_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 170
+Source: 169|company|Aerovias_Brasil|http://dbpedia.org/resource/Aerovias_Brasil\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 43
+Source: 42|company|Norfolk_Jet_Express|http://dbpedia.org/resource/Norfolk_Jet_Express\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 171
+Source: 170|company|Transportes_Aéreos_Nacional|http://dbpedia.org/resource/Transportes_Aéreos_Nacional\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 44
+Source: 43|company|Alliance_Airlines|http://dbpedia.org/resource/Alliance_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 172
+Source: 171|company|SAVAG_–_Sociedade_Anônima_Viação_Aérea_Gaúcha|http://dbpedia.org/resource/SAVAG_–_Sociedade_Anônima_Viação_Aérea_Gaúcha\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 45
+Source: 44|company|Aeropelican_Air_Services|http://dbpedia.org/resource/Aeropelican_Air_Services\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 173
+Source: 172|company|TAC_–_Transportes_Aéreos_Catarinense|http://dbpedia.org/resource/TAC_–_Transportes_Aéreos_Catarinense\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 46
+Source: 45|company|Aero-Tropics_Air_Services|http://dbpedia.org/resource/Aero-Tropics_Air_Services\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 174
+Source: 173|company|SETE_Linhas_Aéreas|http://dbpedia.org/resource/SETE_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 47
+Source: 46|company|Emu_Airways|http://dbpedia.org/resource/Emu_Airways\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 48
+Source: 47|company|Cobham_Aviation_Services_Australia|http://dbpedia.org/resource/Cobham_Aviation_Services_Australia\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 49
+Source: 48|company|Rossair_(Australia)|http://dbpedia.org/resource/Rossair_(Australia)\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 175
+Source: 174|company|Sol_Linhas_Aéreas|http://dbpedia.org/resource/Sol_Linhas_Aéreas\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 50
+Source: 49|company|Airlines_of_Tasmania|http://dbpedia.org/resource/Airlines_of_Tasmania\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 51
+Source: 50|company|Tasman_Cargo_Airlines|http://dbpedia.org/resource/Tasman_Cargo_Airlines\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 176
+Source: 175|company|Whitejets|http://dbpedia.org/resource/Whitejets\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 52
+Source: 51|company|Australian_air_Express|http://dbpedia.org/resource/Australian_air_Express\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 53
+Source: 52|company|Toll_Aviation|http://dbpedia.org/resource/Toll_Aviation\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at java.lang.Thread.run(Thread.java:748) [22 skipped]
+
+Resource: file:/Users/brunoguedes/RafaelPOC/sample-data/organisation_0_0.csv
+Position: 177
+Source: 176|company|Aeronorte|http://dbpedia.org/resource/Aeronorte\u000a
+com.datastax.dsbulk.engine.internal.schema.InvalidMappingException: Required field label (mapped to column label) was missing from record. Please remove it from the mapping or set schema.allowMissingFields to true.
+	at com.datastax.dsbulk.engine.internal.schema.InvalidMappingException.missingField(InvalidMappingException.java:38)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.ensureAllFieldsPresent(DefaultRecordMapper.java:185)
+	at com.datastax.dsbulk.engine.internal.schema.DefaultRecordMapper.map(DefaultRecordMapper.java:106)
+	at com.datastax.dsbulk.connectors.csv.CSVConnector.lambda$readURL$6(CSVConnector.java:539) [18 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.parallelFlux(LoadWorkflow.java:258) [20 skipped]
+	at com.datastax.dsbulk.engine.LoadWorkflow.execute(LoadWorkflow.java:191)
+	at com.datastax.dsbulk.engine.DataStaxBulkLoader$WorkflowThread.run(DataStaxBulkLoader.java:128)
+
