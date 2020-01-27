@@ -1,1 +1,1 @@
-TODO
+This small Scala application uses DSE Graph Frames to load data in the POC graph. Please note that it can only be built by the DataStax team as it requires dependencies that are not yet publicly available.
